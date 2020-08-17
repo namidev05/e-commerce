@@ -59,3 +59,11 @@ fades.forEach(fades => {
     appearsOnscroll.observe(fades);
 })
 
+
+
+
+
+
+
+
+  
